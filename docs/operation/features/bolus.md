@@ -40,7 +40,7 @@ The pre-meal target will remain active until (1) 60 minutes has passed since it 
 If you are using the pre-meal target and save the carbs for the meal entry, Loop will cancel the pre-meal target and revert back to your normal correction range. Loop will account for the insulin it has "prebolused" while trying to reach the lower pre-meal target, and use your normal correction range when making the bolus recommendation.
 
 ## Square or Dual Waves
-Unfortunately, Loop cannot enact temp basals while the pump is delivering a square- or dual-wave bolus. Therefore, you will need to use alternate bolusing strategies for situation where you would've previously used those extended bolusing techniques.
+Unfortunately, Loop cannot enact temp basals while the pump is delivering a square- or dual-wave bolus. Therefore, you will need to use alternate bolusing strategies for situations where you would've previously used those extended bolusing techniques.
 
 The good news is that Loop has the only "smart" bolus tool available in any DIY or commercial loop. Because you are entering a carb absorption time with each carb entry, Loop is also using that information to predict how well your insulin bolusing and carb absorption will align. So when Loop offers you a bolus, it may actually offer less of a bolus upfront for long, slow carb meals...and will make up the remaining bolus amount via high temp basals later.
 
